@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="/images/ML-jinja-avatar.png" alt="Reverie" width="200"/>
+  <img src="/images/ML-jinja-avatar-text.png" alt="Reverie" width="200"/>
   <br>  
 
 </div>
