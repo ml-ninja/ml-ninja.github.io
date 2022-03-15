@@ -12,7 +12,7 @@ author: ML Ninja
 description: Everything about machine learning, neural networks, deep learning, reinforcement learning, etc.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/ML-jinja-avatar.png
 
 #
 # Flags below are optional
@@ -24,7 +24,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: ml-ninja/ml-ninja.github.io
+  github: ml-ninja/deep-learning-with-python-notebooks
   instagram:
   linkedin: 
   pinterest:
